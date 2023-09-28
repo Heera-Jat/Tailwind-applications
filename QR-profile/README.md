@@ -1,3 +1,5 @@
+https://qr-profiles-tailwind.vercel.app/
+
 ## How to Setup Tailwind CSS in VS Code?
 - Install Tailwind CSS Using VS Code Terminal
 
